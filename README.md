@@ -1,5 +1,3 @@
-
-https://github.com/user-attachments/assets/e3d84d81-28d4-47df-b159-58e230207c6d
 # Notice Board
 
 A simple and responsive Notice Board web application created using HTML and CSS. This project is designed to display announcements, updates, or any other form of notices in a clean and organized manner.
@@ -10,8 +8,11 @@ A simple and responsive Notice Board web application created using HTML and CSS.
 - **Clean and Simple UI:** A minimalistic design approach ensures that the focus remains on the content.
 - **Customizable Layout:** Easily customize the look and feel of the notice board by modifying the CSS.
 
-## Screenshots
+## Screenshots![FireShot Capture 006 - Document - ](https://github.com/user-attachments/assets/58ce4e14-24cf-4014-97ce-ac5b6dfb97ed)
 
+
+
+https://github.com/user-attachments/assets/e3d84d81-28d4-47df-b159-58e230207c6d
 
 
 
