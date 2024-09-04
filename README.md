@@ -10,7 +10,8 @@ A simple and responsive Notice Board web application created using HTML and CSS.
 
 ## Screenshots
 
-![Notice Board Screenshot]()![FireShot Capture 006 - Document - ](https://github.com/user-attachments/assets/a337ebb1-d3c7-4069-9885-37e7f84fd8af)
+(https://github.com/user-attachments/assets/a337ebb1-d3c7-4069-9885-37e7f84fd8af)
+[screencast--2024_09_04-19_30_34.webm](https://github.com/user-attachments/assets/73c6bb9f-82c7-4a63-a469-f51e9e80ca67)
 
 
 ## Installation
