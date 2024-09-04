@@ -1,0 +1,83 @@
+.demo{
+    height: 400px;
+    width: 400px;
+    background-color: skyblue;
+    position: relative;
+    top: 0px;
+    left: 30%;
+    overflow: hidden;
+    padding: 5px;
+    margin: 5px;
+    box-shadow: 3px 2px 7px red;
+    border-left-style: solid;
+    border-right-style: solid;
+    border-color: gold;
+    
+}
+
+.notice{
+    position: relative;
+    animation-name: anim;
+    top: -600px;
+    animation-duration: 15s;
+    animation-iteration-count: infinite;
+    
+
+
+}
+
+@keyframes anim{
+    from{
+        top: 0px;
+    }
+    to{
+        top: -600px;
+    }
+}
+
+.demo1{
+    height: 50px;
+    width: 500px;
+    background-color: red;
+    border-radius: 20px;
+    position: relative;
+    top: 10px;
+    left: 370px;
+}
+.demo2{
+    height: 50px;
+    width: 500px;
+    background-color: red;
+    border-radius: 20px;
+    position: relative;
+    top: 510px;
+    left: 370px;
+   
+}
+h1{
+    text-shadow: 2px 2px 10px yellow;
+    color: white;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+    
+}
+.demo3{
+    height: 50px;
+    width: 100%;
+    background-image: radial-gradient(circle, red, blue);
+    position: sticky;
+    
+}
+*
+{
+    margin: 0px;
+    padding: 0px;
+}
+h3{
+    position: relative;
+    top: 7px;
+}
+p{
+    position: relative;
+    top: 5px;
+}
